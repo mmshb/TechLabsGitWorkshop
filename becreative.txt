@@ -12,7 +12,7 @@ Zeige uns, wie kreativ du bist. Erstelle ein ASCII Kunstwerk!
         ###
     ###                     ####
 ###                        ######
-                            ####
+                            ############################################
 
 
 **** Dein Kunstwerk ****
