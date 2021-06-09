@@ -13,6 +13,7 @@ Zeige uns, wie kreativ du bist. Erstelle ein ASCII Kunstwerk!
 
 
 **** Dein Kunstwerk ****
+
 ________                                         __    _______
 /        |                                      _/  |  /       |
 $$$$$$$$/______    ______   _____  ____        / $$ |  $$$$$$$/
