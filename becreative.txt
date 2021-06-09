@@ -1,18 +1,10 @@
 Aufgabe 3:
 Zeige uns, wie kreativ du bist. Erstelle ein ASCII Kunstwerk!
 
-###
-    ###
-        ###
-            ###
-                ###
-                    ###
-                ###
-            ###
-        ###
-    ###                     ####
-###                        ######
-                            ####
+  ______
+ /|_||_\`.__
+(   _    _ _\
+=`-(_)--(_)-'
 
 
 **** Dein Kunstwerk ****
